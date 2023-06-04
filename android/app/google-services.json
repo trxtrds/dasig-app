@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "578216101324",
+    "project_id": "dasigapp",
+    "storage_bucket": "dasigapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578216101324:android:f364b8ce0bd77b50188969",
+        "android_client_info": {
+          "package_name": "com.mycompany.dasigapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578216101324-hllbk9memnrk062dnnr505fn4ob8q0mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LyiNCpQXxeW62VETSOYmrzCWF1_eaqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578216101324-hllbk9memnrk062dnnr505fn4ob8q0mu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "578216101324-ll5kvdbg7qh7h8vnfptfu47e5tjs5h3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.dasigapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
